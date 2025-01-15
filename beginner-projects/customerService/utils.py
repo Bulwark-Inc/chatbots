@@ -15,18 +15,18 @@ responses = {
 transitions = {
     "greeting": ["working_hours", "services", "location", "contact", "exit"],
     "working_hours": ["greeting", "exit"],
-    "services": ["greeting", "exit"],
+    "services": ["greeting", "services", "exit"],
     "location": ["greeting", "exit"],
     "contact": ["greeting", "exit"],
     "fallback": ["greeting", "exit"],
-    "exit": []
+    "exit": ["exit"]
 }
 
 # Function to check user input with regex
 def match_input(user_input):
     if re.search(r"(working|open|hours)", user_input):
         return "working_hours"
-    elif re.search(r"(service|offer|products)", user_input):
+    elif re.search(r"(service|services|offer|products)", user_input):
         return "services"
     elif re.search(r"(location|address|where)", user_input):
         return "location"

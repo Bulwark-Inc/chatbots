@@ -1,0 +1,54 @@
+2025-01-15 17:42:10 - User: System
+2025-01-15 17:42:10 - Bot: Hello! Welcome to [Business Name]. How can I assist you today?
+
+2025-01-15 17:42:28 - User: what services do you offer?
+2025-01-15 17:42:28 - Bot: I'm sorry, I didn't understand that. Can you please rephrase?
+
+2025-01-15 17:43:13 - User: exit
+2025-01-15 17:43:13 - Bot: I'm sorry, I didn't understand that. Can you please rephrase?
+
+2025-01-15 17:44:13 - User: System
+2025-01-15 17:44:13 - Bot: Hello! Welcome to [Business Name]. How can I assist you today?
+
+2025-01-15 17:44:15 - User: exit
+2025-01-15 17:44:15 - Bot: I'm sorry, I didn't understand that. Can you please rephrase?
+
+2025-01-15 17:44:29 - User: System
+2025-01-15 17:44:29 - Bot: Hello! Welcome to [Business Name]. How can I assist you today?
+
+2025-01-15 17:44:30 - User: exit
+2025-01-15 17:44:30 - Bot: Thank you for chatting with us! Have a great day!
+
+2025-01-15 17:45:39 - User: System
+2025-01-15 17:45:39 - Bot: Hello! Welcome to [Business Name]. How can I assist you today?
+
+2025-01-15 17:45:40 - User: exit
+2025-01-15 17:45:40 - Bot: Thank you for chatting with us! Have a great day!
+
+2025-01-15 17:45:42 - User: System
+2025-01-15 17:45:42 - Bot: Hello! Welcome to [Business Name]. How can I assist you today?
+
+2025-01-15 17:45:45 - User: hello
+2025-01-15 17:45:45 - Bot: I'm sorry, I didn't understand that. Can you please rephrase?
+
+2025-01-15 17:45:55 - User: what are your services?
+2025-01-15 17:45:55 - Bot: I'm sorry, I didn't understand that. Can you please rephrase?
+
+2025-01-15 17:46:01 - User: service?
+2025-01-15 17:46:01 - Bot: I'm sorry, I didn't understand that. Can you please rephrase?
+
+2025-01-15 17:46:04 - User: exit
+2025-01-15 17:46:04 - Bot: Thank you for chatting with us! Have a great day!
+
+2025-01-15 17:47:38 - User: System
+2025-01-15 17:47:38 - Bot: Hello! Welcome to [Business Name]. How can I assist you today?
+
+2025-01-15 17:47:42 - User: servic
+2025-01-15 17:47:42 - Bot: I'm sorry, I didn't understand that. Can you please rephrase?
+
+2025-01-15 17:47:45 - User: service
+2025-01-15 17:47:45 - Bot: We provide X, Y, and Z services. Would you like more details?
+
+2025-01-15 17:47:48 - User: exit
+2025-01-15 17:47:48 - Bot: Thank you for chatting with us! Have a great day!
+
