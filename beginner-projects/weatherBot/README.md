@@ -32,3 +32,4 @@ api_key = "your_api_key_here"
 3. Push the project to a GitHub repository to showcase it in your portfolio.
 
 Let me know if you'd like help testing or pushing the project to GitHub!
+```
