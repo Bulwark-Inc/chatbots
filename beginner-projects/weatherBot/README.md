@@ -17,19 +17,9 @@ A Python-based chatbot that provides weather updates using the OpenWeatherMap AP
 - Cached data for faster responses to repeated queries.
 
 ## How to Run
-1. Clone the repository:
+1. Clone the repository
 2. Install dependencies:
 3. Add your OpenWeatherMap API key to `weather_bot.py`:
 ```python
 api_key = "your_api_key_here"
-
-
----
-
-### **Next Steps**:
-1. Test the updated bot with all the new features.
-2. Add any final refinements or enhancements.
-3. Push the project to a GitHub repository to showcase it in your portfolio.
-
-Let me know if you'd like help testing or pushing the project to GitHub!
 ```
